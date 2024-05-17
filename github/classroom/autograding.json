@@ -3,7 +3,7 @@
     {
       "name": "Test Output",
       "setup": "",
-      "run": "python3 solution.py",
+      "run": "main.py",
       "input": "",
       "output": "*****\n*   *\n*****\n*   *\n*****\n",
       "comparison": "exact",
