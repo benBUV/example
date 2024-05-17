@@ -1,0 +1,13 @@
+{
+  "tests": [
+    {
+      "name": "Test Output",
+      "setup": "",
+      "run": "python3 solution.py",
+      "input": "",
+      "output": "*****\n*   *\n*****\n*   *\n*****\n",
+      "comparison": "exact",
+      "timeout": 10
+    }
+  ]
+}
